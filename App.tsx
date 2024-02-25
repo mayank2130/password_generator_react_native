@@ -240,7 +240,7 @@ const styles = StyleSheet.create({
     padding: 10,
     borderRadius: 8,
     marginHorizontal: 8,
-    backgroundColor: '#5DA3FA',
+    backgroundColor: '#282d55',
   },
   primaryBtnTxt: {
     color: '#fff',
